@@ -1,0 +1,296 @@
+{
+  "profile": {
+    "firstName": "Victor",
+    "lastName": "Kimanga",
+    "title": "Backend Software Developer",
+    "location": "Nairobi, Kenya",
+    "tagline": "Backend Software Developer specializing in Java, Spring Boot & Quarkus. Building scalable microservices, REST APIs, and event-driven systems with strong observability practices using Grafana.",
+    "email": "vkimanga@gmail.com",
+    "phone": "+254 717 999 529",
+    "githubUrl": "https://github.com/10krhinooo",
+    "linkedinUrl": "https://linkedin.com/in/victor-kimanga",
+    "resumeUrl": "/resume.pdf"
+  },
+  "stats": [
+    { "value": "9+", "label": "Projects Shipped" },
+    { "value": "9+", "label": "Languages" },
+    { "value": "3", "label": "Certifications" },
+    { "value": "2026", "label": "BSc Graduate" }
+  ],
+  "projects": [
+    {
+      "slug": "tahadhari",
+      "number": "01",
+      "title": "Tahadhari",
+      "category": "Hackathon Projects",
+      "description": "A WhatsApp-based early warning alert system for East Africa, built with a three-person hackathon team. Owns the AI and language layer using FastAPI, the Claude API, and Twilio for message delivery.",
+      "period": "Jun 2026 - Present",
+      "tags": ["FastAPI", "Claude API", "Twilio", "WhatsApp"],
+      "repoUrl": null,
+      "liveUrl": null,
+      "featured": true
+    },
+    {
+      "slug": "gatestack",
+      "number": "02",
+      "title": "Gatestack",
+      "category": "Personal Projects",
+      "description": "An event ticketing platform built with Quarkus 3 and a React 18/TypeScript frontend. Set up CI/CD pipelines with JaCoCo and Vitest, and implemented multi-currency exchange rate support.",
+      "period": "May 2026 - Present",
+      "tags": ["Quarkus", "React", "TypeScript", "CI/CD"],
+      "repoUrl": null,
+      "liveUrl": null,
+      "featured": true
+    },
+    {
+      "slug": "dondoo-homes",
+      "number": "03",
+      "title": "Dondoo Homes",
+      "category": "Contract Projects",
+      "description": "A full-stack property management platform using Quarkus 3, React 19, and PostgreSQL. Integrated Keycloak for identity and access management and M-Pesa & Flutterwave for booking and rent payments, with an admin UI featuring collapsible navigation and room classification.",
+      "period": "Mar 2026 - Present",
+      "tags": ["Quarkus", "React", "PostgreSQL", "Keycloak"],
+      "repoUrl": "https://github.com/10krhinooo/dondoo-homes",
+      "liveUrl": null,
+      "featured": true
+    },
+    {
+      "slug": "signbridge",
+      "number": "04",
+      "title": "SignBridge",
+      "category": "Personal Projects",
+      "description": "A real-time sign language translation application bridging communication for the hearing impaired, with a backend API layer supporting sign recognition and translation workflows.",
+      "period": "May 2026 - Present",
+      "tags": ["Quarkus", "Google Speech-to-Text", "React"],
+      "repoUrl": null,
+      "liveUrl": null,
+      "featured": true
+    },
+    {
+      "slug": "nyayo-sentinel",
+      "number": "05",
+      "title": "Nyayo Sentinel",
+      "category": "Personal Projects",
+      "description": "A national early warning dashboard with real-time sentiment monitoring using a RoBERTa NLP pipeline. Backend built with Next.js and Express, integrating Socket.io for live updates, county heatmaps, MFA via email OTP, and Claude-powered AI summaries.",
+      "period": "Jan - Mar 2026",
+      "tags": ["Next.js", "Express", "Socket.io", "RoBERTa NLP"],
+      "repoUrl": "https://github.com/10krhinooo/Nyayo-sentinel-dashboard",
+      "liveUrl": null,
+      "featured": true
+    },
+    {
+      "slug": "ai-climate-chatbot",
+      "number": "06",
+      "title": "AI Climate Chatbot",
+      "category": "Personal Projects",
+      "description": "An AI-powered Telegram chatbot delivering climate insights through LLMs and RAG pipelines. Built for real-time data processing with a scalable Spring Boot backend.",
+      "period": "Jan - Jun 2025",
+      "tags": ["Spring Boot", "RAG Pipeline", "LLM", "Telegram API"],
+      "repoUrl": "https://github.com/10krhinooo/Hali-ya-Hewa",
+      "liveUrl": null,
+      "featured": true
+    },
+    {
+      "slug": "storesync",
+      "number": "07",
+      "title": "StoreSync",
+      "category": "Personal Projects",
+      "description": "A full retail management platform covering inventory, sales tracking, and customer management. RESTful APIs and automated processes cut manual errors by 40%.",
+      "period": "Feb - Apr 2025",
+      "tags": ["Java", "Spring Boot", "PostgreSQL", "REST API"],
+      "repoUrl": null,
+      "liveUrl": null,
+      "featured": false
+    },
+    {
+      "slug": "afyacheck",
+      "number": "08",
+      "title": "AfyaCheck",
+      "category": "Academic Projects",
+      "description": "A digital health platform for STI risk evaluation using dynamic questionnaires and ML-based risk scoring. Generates PDF reports and securely stores medical screening data. Extended with a native iOS app built in Swift.",
+      "period": "Apr - Dec 2025",
+      "tags": ["Spring Boot", "ML Scoring", "PDF Generation", "Swift"],
+      "repoUrl": "https://github.com/10krhinooo/AfyaCheck",
+      "liveUrl": null,
+      "featured": true
+    },
+    {
+      "slug": "apeiro-digital-website",
+      "number": "09",
+      "title": "Apeiro Digital Website",
+      "category": "Company Projects",
+      "description": "A Quarkus-based backend platform for the company website, handling image and article storage. Authentication via Keycloak integrated with Microsoft Entra ID restricts access to company-domain accounts, and the system is designed for reuse across the company's subsidiaries.",
+      "period": "2026 - Present",
+      "tags": ["Quarkus", "Keycloak", "Microsoft Entra ID"],
+      "repoUrl": null,
+      "liveUrl": null,
+      "featured": false
+    },
+    {
+      "slug": "webchama",
+      "number": "10",
+      "title": "Webchama 2.0",
+      "category": "Personal Projects",
+      "description": "A chama savings and table banking platform for the Kenyan market, built on Quarkus, React, PostgreSQL and Keycloak with M-Pesa payments. A ground-up rewrite of an earlier Laravel prototype.",
+      "period": "2026 - Present",
+      "tags": ["Quarkus", "React", "PostgreSQL", "Keycloak", "M-Pesa"],
+      "repoUrl": "https://github.com/10krhinooo/webchama-2.0",
+      "liveUrl": null,
+      "featured": true
+    },
+    {
+      "slug": "keja-hub",
+      "number": "11",
+      "title": "Keja Hub",
+      "category": "Personal Projects",
+      "description": "A student housing platform connecting students with landlords. Role-based dashboards for students, landlords and admins, with house listings, image uploads, bookings, reviews, email verification and landlord verification.",
+      "period": "2026",
+      "tags": ["Node.js", "Express", "EJS", "SQLite"],
+      "repoUrl": "https://github.com/10krhinooo/keja_hub",
+      "liveUrl": null,
+      "featured": false
+    },
+    {
+      "slug": "kadi-ios",
+      "number": "12",
+      "title": "Kadi iOS",
+      "category": "Personal Projects",
+      "description": "A native Swift/SwiftUI rebuild of the Kadi card game. Full game engine, LAN multiplayer over Bonjour, Firebase-backed online play, friends, chat, leaderboards, AI opponents and push notifications.",
+      "period": "2026",
+      "tags": ["Swift", "SwiftUI", "Firebase", "Bonjour"],
+      "repoUrl": "https://github.com/10krhinooo/Kadi_IOS",
+      "liveUrl": null,
+      "featured": false
+    }
+  ],
+  "experience": [
+    {
+      "slug": "apeiro-qa-engineer",
+      "role": "QA Engineer",
+      "organisation": "Apeiro Digital",
+      "location": "Nairobi, Kenya",
+      "period": "2026 - Present",
+      "kind": "WORK",
+      "bullets": [
+        "Developing and executing test cases to validate platform functionality and reliability across QA, preprod, and UAT environments.",
+        "Investigating and documenting defects in collaboration with development teams, tracking issues through to resolution.",
+        "Contributing to backend engineering efforts alongside core QA responsibilities."
+      ]
+    },
+    {
+      "slug": "savannah-backend-developer",
+      "role": "Backend Developer",
+      "organisation": "Savannah Informatics",
+      "location": "Nairobi, Kenya (Internship)",
+      "period": "Mar - May 2026",
+      "kind": "WORK",
+      "bullets": [
+        "Improved CI/CD pipeline efficiency by 50%, reducing build and deployment times significantly.",
+        "Developed an authentication and authorization module using Go, enhancing system security and access control."
+      ]
+    },
+    {
+      "slug": "phis3-junior-backend-developer",
+      "role": "Junior Backend Developer",
+      "organisation": "PHIS3",
+      "location": "Abuja, Nigeria (Internship)",
+      "period": "Jan - Mar 2025",
+      "kind": "WORK",
+      "bullets": [
+        "Assisted in developing a CAPI system for nationwide surveys, reducing processing time by 35%.",
+        "Built and optimized Spring Boot microservices integrating MySQL, MongoDB, and AWS.",
+        "Collaborated on database design and API development for large-scale health data systems."
+      ]
+    },
+    {
+      "slug": "strathmore-bsc",
+      "role": "BSc. Informatics & Computer Science",
+      "organisation": "Strathmore University",
+      "location": "Nairobi, Kenya",
+      "period": "2022 - 2026 (Expected)",
+      "kind": "EDUCATION",
+      "bullets": [
+        "Relevant coursework: Software Engineering, Database Systems, Algorithms, Data Structures."
+      ]
+    },
+    {
+      "slug": "pioneer-kcse",
+      "role": "Kenya Certificate of Secondary Education",
+      "organisation": "Pioneer School",
+      "location": "Maragua, Kenya",
+      "period": "2018 - 2022",
+      "kind": "EDUCATION",
+      "bullets": [
+        "Served as Class Prefect, demonstrating leadership and organization.",
+        "Excelled in Mathematics and Sciences."
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "slug": "languages",
+      "title": "Languages",
+      "icon": "code",
+      "items": ["Java", "Kotlin", "Python", "Go", "TypeScript", "PHP", "SQL", "Swift", "HTML"]
+    },
+    {
+      "slug": "frameworks",
+      "title": "Frameworks & APIs",
+      "icon": "layers",
+      "items": ["Spring Boot", "Quarkus", "Hibernate / JPA", "Laravel", "REST APIs", "Microservices", "FastAPI", "FHIR R4"]
+    },
+    {
+      "slug": "databases",
+      "title": "Databases",
+      "icon": "database",
+      "items": ["PostgreSQL", "MySQL", "MongoDB", "Redis"]
+    },
+    {
+      "slug": "tools",
+      "title": "Tools & DevOps",
+      "icon": "terminal",
+      "items": ["Docker", "Git", "Linux", "Grafana", "CI/CD", "AWS", "Keycloak", "Jira"]
+    },
+    {
+      "slug": "testing",
+      "title": "Testing",
+      "icon": "check",
+      "items": ["Playwright", "Selenium"]
+    },
+    {
+      "slug": "architecture",
+      "title": "Architecture",
+      "icon": "network",
+      "items": ["Microservices", "Event-Driven", "API Design", "System Monitoring", "RAG Pipelines", "Backend Development", "System Optimization", "QA & Testing"]
+    },
+    {
+      "slug": "spoken",
+      "title": "Languages Spoken",
+      "icon": "globe",
+      "items": ["English ✦ Native", "Swahili ✦ Native", "French ✦ Working"]
+    }
+  ],
+  "certifications": [
+    {
+      "slug": "google-ai-essentials",
+      "title": "Google AI Essentials",
+      "issuer": "Google",
+      "awarded": "March 2025",
+      "credentialUrl": null
+    },
+    {
+      "slug": "foundations-of-cybersecurity",
+      "title": "Foundations of Cybersecurity",
+      "issuer": "Google",
+      "awarded": "February 2024",
+      "credentialUrl": null
+    },
+    {
+      "slug": "swift-app-development",
+      "title": "Swift App Development",
+      "issuer": "Apple Developer Academy",
+      "awarded": "2025",
+      "credentialUrl": null
+    }
+  ]
+}
